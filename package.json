@@ -1,0 +1,20 @@
+{
+  "name": "feedParserDemo",
+  "description": "A demo of Dan MacTough's feedparser package.",
+  "author": "Dave Winer <dave@smallpicture.com>",
+  "version": "0.4.3",
+  "dependencies": {
+    "@google-cloud/translate": "^1.1.0",
+    "@slack/client": "^4.3.0",
+    "app-store-scraper": "^0.12.0",
+    "feedparser": "*",
+    "moby": "^1.1.2",
+    "mongoose": "^5.1.5",
+    "request": "*",
+    "slackbots": "^1.1.0"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": "*"
+  }
+}
